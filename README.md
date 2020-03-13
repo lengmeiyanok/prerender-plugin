@@ -1,4 +1,5 @@
 # prerender
+# 预渲染插件prerender-spa-plugin demo，dist/index.html带有生成的渲染元素
 
 ## Project setup
 ```
